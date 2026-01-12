@@ -46,7 +46,7 @@ export default function Page() {
     <div className={styles.body}>
       <div className={styles.container}>
         <h1 className={styles.title}>
-          ORBIT <span>CONFERENCE</span>
+          SUCCESS <span>CLASS</span>
         </h1>
 
         <div className={styles.bento}>

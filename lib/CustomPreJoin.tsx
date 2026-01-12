@@ -398,7 +398,7 @@ export function CustomPreJoin({ roomName, onSubmit, onError, defaults }: CustomP
       <form className={styles.preJoinContainer} onSubmit={handleSubmit}>
         <div className={styles.preJoinHeader}>
           <h1 className={styles.preJoinTitle}>
-            ORBIT <span>CONFERENCE</span>
+            SUCCESS <span>CLASS</span>
           </h1>
           <p className={styles.preJoinSubtitle}>Room: {roomName}</p>
         </div>

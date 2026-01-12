@@ -33,7 +33,7 @@ export const metadata: Metadata = {
         type: 'image/png',
       },
     ],
-    siteName: 'Orbit Conference',
+    siteName: 'Success Class',
   },
   icons: {
     icon: {
