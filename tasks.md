@@ -1,5 +1,20 @@
 # Success Class Task Log
 
+Task ID: T-0059
+Title: Rebrand Entry and Pre-Join Screens to "Success Class"
+Status: DONE
+Owner: Miles
+
+START LOG
+Timestamp: 2026-01-12 20:50
+Current behavior: Entry page and Pre-Join screen still show "ORBIT CONFERENCE".
+Plan: Replace these titles with "SUCCESS CLASS".
+END LOG
+Timestamp: 2026-01-12 20:53
+Changed: Updated `app/page.tsx` and `lib/CustomPreJoin.tsx` to display "SUCCESS CLASS".
+Tests: Manual verification of code changes.
+Status: DONE
+
 Task ID: T-0057
 Title: Success Class Rebranding and Orbit Enhancements
 Status: DONE
